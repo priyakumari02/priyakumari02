@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 <h1> I'm Priya Kumari ! </h1>
 <hr>
 <!--
