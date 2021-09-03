@@ -7,7 +7,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyakumari02&show_icons=true&locale=en&layout=compact" alt="priyakumari02" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyakumari02&show_icons=true&locale=en" alt="priyakumari02" /></p>
+<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyakumari02&show_icons=true&locale=en" alt="priyakumari02" /><span>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyakumari02&" alt="priyakumari02" /></p>
 
