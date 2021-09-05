@@ -5,9 +5,9 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyakumari02" alt="priyakumari02" /></a> </p> -->
 
 
-<span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyakumari02&show_icons=true&locale=en&layout=compact" alt="priyakumari02" /></span>
+<span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyakumari02&show_icons=true&locale=en&layout=compact" alt="priyakumari02" /></span>
 <br><br>
-<span style="border-right:6px white;height:100px;background-color:black">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=priyakumari02&show_icons=true&locale=en" alt="priyakumari02" /><span>
+<span style="border-right:6px white;height:100px">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=priyakumari02&show_icons=true&locale=en" alt="priyakumari02" /><span>
 
   <hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyakumari02&" alt="priyakumari02" /></p>
